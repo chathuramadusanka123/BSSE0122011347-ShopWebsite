@@ -43,13 +43,11 @@ if(isset($_SESSION['user_id'])){
 
       <div class="content">
          <h3>Developer's Message:</h3>
-         <p>Hey There ! I'm Harsh Chaudhary. A Student of BE in Software Engineering 
-            Department from NCIT College [Batch : 2023] . 
+         <p>Hey There ! I'm Chathura Jayathilaka. A Student of  Software Engineering 
+            in Saegis Campus,Sri Lanka . 
             I love designing websites and exploring new things. Learning new things is my hobby.</p>
-
-         <p>I would like to thank <a href="https://www.facebook.com/er.ashokbasnet" target="_blank">Er. Ashok Basnet
             
-         </a> Sir for guiding me through the session and making me able to develop projects like this. </p>
+         </a> I did this project for my Software Quality Assurance assignment </p>
          <a href="contact.php" class="btn">Contact Us</a>
       </div>
 
